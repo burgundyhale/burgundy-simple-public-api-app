@@ -1,0 +1,17 @@
+{
+  "locale": "en-us",
+  "messages": {
+    "simple.app.title": "Amiibos",
+    "simple.app.status.loading": "Loading",
+    "simple.app.amiibo.details.amiiboSeries": "Amiibo Series: ",
+    "simple.app.amiibo.details.character": "Character: ",
+    "simple.app.amiibo.details.gameSeries": "Game Series: ",
+    "simple.app.amiibo.details.head": "Head: ",
+    "simple.app.amiibo.details.image": "Image: ",
+    "simple.app.amiibo.details.name": "Name: ",
+    "simple.app.amiibo.details.release": "Release: ",
+    "simple.app.amiibo.details.tail": "Tail: ",
+    "simple.app.amiibo.details.type": "Type: ",
+    "simple.app.amiibo.details.detail.format": "{0}: {1}"
+  }
+}

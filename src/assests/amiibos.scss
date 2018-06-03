@@ -1,0 +1,47 @@
+$bsa-green: #00a566;
+$bsa-green-darker: #1e824c;
+
+.bsa {
+  font-family: sans-serif;
+  margin: 15px;
+
+  .bsa-flex {
+    display: flex;
+  }
+
+  .bsa-h1 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 20px;
+  }
+
+  .bsa-green {
+    color: $bsa-green;
+  }
+
+  .bsa-ul {
+    list-style-type: none;
+  }
+
+  .bsa-ul-no-padding {
+    padding-left: 0;
+  }
+
+  .bsa-amiibo-wrapper {
+    border: 1px solid $bsa-green-darker;
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+  .bsa-bold {
+    font-weight: 600;
+  }
+
+  .bsa-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+}
